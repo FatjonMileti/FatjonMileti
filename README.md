@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Fatjon Mileti<br>Software Engineer Student at Holberton School Albania<br><br>    🔭 I’m currently working on c<br><br>    🌱 I’m currently learning computer science foundation at Holberton School Albania<br><br>    📫 How to reach me tonimileti@yahoo.com<br>
+Hi 👋, I'm Fatjon Mileti<br>Software Engineer Student at Holberton School Albania<br><br>    🔭 I’m currently working on Python<br><br>    🌱 I’m currently learning computer science foundation at Holberton School Albania<br><br>    📫 How to reach me tonimileti@yahoo.com<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FatjonMileti&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
