@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Fatjon Mileti<br>Software Engineer Student at Holberton School Albania<br><br>    🔭 I’m currently working on Python<br><br>    🌱 I’m currently learning computer science foundation at Holberton School Albania<br><br>    📫 How to reach me tonimileti@yahoo.com<br>
+Hi 👋, I'm Fatjon Mileti<br>Software Engineer at FullScreenDigital<br><br>    🔭 I’m currently working with React and node.js<br><br>    📫 How to reach me https://www.linkedin.com/in/fatjonmileti/<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FatjonMileti&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -11,3 +11,4 @@ Hi 👋, I'm Fatjon Mileti<br>Software Engineer Student at Holberton School Alba
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FatjonMileti&icon=0&color=0)](https://visitcount.itsvg.in)
+
