@@ -1,65 +1,277 @@
-# 💫 About Me
+# 👋 Hi, I'm Fatjon Mileti
 
-Hi 👋, I'm **Fatjon Mileti** — a **Full-Stack Software Engineer** at FullScreenDigital.
+### Full-Stack Software Engineer
 
-I build production applications across the **React, TypeScript, Node.js, Flutter and Electron** ecosystems. I'm particularly interested in **real-time applications, APIs, developer tooling, desktop applications, and scalable backend systems**.
+I build web, mobile, and desktop applications with a focus on **React, TypeScript, Node.js, real-time systems, APIs, and developer tooling**.
 
-* 🔭 Currently working with **React, Node.js, TypeScript, Flutter and Electron**
-* ⚡ Interested in **real-time systems, WebSockets, SSE, APIs, desktop apps and developer tools**
-* 📦 Creator of **[redis-orm-lite](https://github.com/FatjonMileti/redis-orm-lite)** — a lightweight Mongoose-like ORM for Redis
-* 🎓 B.Sc. & M.Sc. in Physics — University of Tirana | CS Foundations — Holberton School
-* 📫 Reach me at **[tonimileti@gmail.com](mailto:tonimileti@gmail.com)** or [LinkedIn](https://www.linkedin.com/in/fatjonmileti/)
+I enjoy working across the stack — from building user interfaces and mobile applications to designing backend services, real-time communication, databases, and desktop applications.
+
+- 💻 Full-stack development with **React, TypeScript & Node.js**
+- ⚡ Real-time applications with **Socket.IO, WebSockets & SSE**
+- 🖥️ Desktop applications with **Electron**
+- 📱 Cross-platform mobile development with **Flutter & React Native**
+- 📦 Open-source TypeScript/Node.js libraries
+- 🐧 Linux, Docker and modern development tooling
+- 🔭 Currently exploring **WebRTC, remote desktop architecture and developer tooling**
+- 🎓 B.Sc. & M.Sc. in Physics — University of Tirana
+- 🎓 Computer Science Foundations — Holberton School
+- 📫 **tonimileti@gmail.com**
+
+---
 
 # 🛠️ Tech Stack
 
 ### Frontend
 
-**React · React Native · Flutter · TypeScript · JavaScript · Redux Toolkit · Zustand · React Query · HTML · CSS**
+`React` `TypeScript` `JavaScript` `React Native` `Flutter` `Redux Toolkit` `Zustand` `React Query` `Vite` `HTML` `CSS`
 
 ### Backend
 
-**Node.js · Express.js · REST APIs · GraphQL · Socket.IO · Server-Sent Events · Sequelize · Mongoose**
+`Node.js` `Express.js` `REST APIs` `GraphQL` `Socket.IO` `Server-Sent Events` `Mongoose` `Sequelize`
 
 ### Desktop & Real-Time
 
-**Electron.js · WebRTC · Socket.IO · WebSockets**
+`Electron` `WebRTC` `WebSockets` `Socket.IO` `Real-time Systems`
 
 ### Databases
 
-**MongoDB · Redis · MySQL · SQLite**
+`MongoDB` `PostgreSQL` `Redis` `MySQL` `SQLite`
 
 ### DevOps & Tools
 
-**Linux · Docker · Nginx · Git · GitHub · Shell Scripting · Vite · PM2**
+`Linux` `Docker` `Nginx` `Caddy` `PM2` `Git` `GitHub` `Shell Scripting` `Swagger`
+
+---
 
 # 🚀 Featured Projects
 
-Projects that represent the technologies and areas I enjoy working with most.
+## 🍽️ Restaurant Management System
 
-| Project                                                                                      | Stack                                                 | Description                                                                                                                                  |
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Restaurant Management System](https://github.com/FatjonMileti/restaurant-management-system) | React, Node.js, Express, PostgreSQL, GraphQL, SSE     | Full-stack restaurant management platform with GraphQL APIs, real-time Server-Sent Events, Swagger API documentation and Caddy reverse proxy |
-| [redis-orm-lite](https://github.com/FatjonMileti/redis-orm-lite)                             | TypeScript, Redis, Node.js                            | Lightweight Mongoose-like ORM for Redis with familiar querying and document operations                                                       |
-| [Chat App](https://github.com/FatjonMileti/Chat_App)                                         | TypeScript, React, Express, Socket.IO, MongoDB, Redis | Real-time chat application using WebSockets with Redis integration                                                                           |
-| [Native Chat App](https://github.com/FatjonMileti/native_chat_app)                           | React Native, Expo, Express, Socket.IO, MongoDB       | Mobile real-time chat application                                                                                                            |
-| [Revo-Uninstaller-Clone](https://github.com/FatjonMileti/Revo-Uninstaller-Clone)             | Electron, JavaScript                                  | Desktop application for discovering and removing installed packages on Ubuntu                                                                |
-| [File Share](https://github.com/FatjonMileti/fileshare)                                      | Node.js, Express, Socket.IO                           | Real-time peer-to-peer style file sharing application                                                                                        |
-| [Maps Clone](https://github.com/FatjonMileti/Maps_Clone)                                     | React, TypeScript, Leaflet                            | Interactive map SPA with location and map-based functionality                                                                                |
-| [FileForge](https://github.com/FatjonMileti/FileForge)                                       | TypeScript                                            | File processing and manipulation tool                                                                                                        |
-| [Zustand ToDo](https://github.com/FatjonMileti/Zustand-ToDo)                                 | React, Zustand                                        | Drag-and-drop task management application                                                                                                    |
-| [Recipe App](https://github.com/FatjonMileti/Recipe-App)                                     | JavaScript, TheMealDB API                             | Recipe discovery and search application                                                                                                      |
-| [QR Generator Scanner](https://github.com/FatjonMileti/QR-Generator-Scanner)                 | Flutter                                                   | QR code generation and scanning project                                                                                                      |
+**React · TypeScript · Node.js · Express · GraphQL · Socket.IO · MongoDB · PostgreSQL · Caddy**
 
-# 🧩 Other Projects
+Full-stack restaurant management platform covering:
 
-I also experiment with different technologies and build projects to explore new areas of software engineering.
+- Dashboard and analytics
+- Menu and category management
+- Orders and reservations
+- Table management
+- User and role management
+- Restaurant settings
+- GraphQL API
+- Real-time updates
+- JWT authentication and role-based access
+- Swagger API documentation
+- Caddy reverse-proxy deployment
 
-* 🖥️ **Electron applications** — desktop development with JavaScript/TypeScript
-* 📡 **WebRTC projects** — real-time video, screen sharing and remote communication
-* 🔌 **Real-time systems** — Socket.IO, WebSockets and Server-Sent Events
-* 🤖 **AI & developer tooling** — local/cloud LLM integrations, RAG and coding tools
-* 📱 **Flutter applications** — cross-platform mobile development
-* ⚙️ **Developer tools & libraries** — Node.js, TypeScript and open-source packages
+🔗 [View Repository](https://github.com/FatjonMileti/Restaurant-Management-System)
+
+---
+
+## 📦 redis-orm-lite
+
+**TypeScript · Node.js · Redis**
+
+A lightweight Redis ORM with a Mongoose-like API.
+
+Features include:
+
+- `.create()`
+- `.find()`
+- `.findOne()`
+- `.findById()`
+- `.updateOne()`
+- `.updateMany()`
+- `.deleteOne()`
+- `.deleteMany()`
+- `.findOneAndUpdate()`
+- `.findOneAndDelete()`
+- `.countDocuments()`
+- Query chaining
+- Sorting
+- Pagination
+
+🔗 [View Repository](https://github.com/FatjonMileti/redis-orm-lite)
+
+---
+
+## 🔁 node-retry-kit
+
+**TypeScript · Node.js**
+
+A lightweight, type-safe retry utility for asynchronous operations.
+
+Includes:
+
+- Exponential backoff
+- Jitter
+- Per-attempt timeouts
+- `AbortSignal` cancellation
+- Zero runtime dependencies
+
+🔗 [View Repository](https://github.com/FatjonMileti/node-retry-kit)
+
+---
+
+# 🖥️ Electron Desktop Applications
+
+## Revo Uninstaller Clone
+
+**Electron · JavaScript**
+
+Ubuntu desktop application for:
+
+- Listing installed packages
+- Removing packages
+- Scanning leftover files
+- Hunter Mode workflow
+
+🔗 [View Repository](https://github.com/FatjonMileti/Revo-Uninstaller-Clone)
+
+---
+
+## Download Manager
+
+**Electron · JavaScript**
+
+Cross-platform desktop application for direct downloads and media extraction, using a secure preload bridge.
+
+---
+
+# 💬 Real-Time Applications
+
+## Chat App
+
+**React · TypeScript · Express · Socket.IO · MongoDB · Redis**
+
+Real-time web chat application demonstrating:
+
+- WebSocket communication
+- Backend APIs
+- Persistent storage
+- Redis integration
+- Real-time messaging
+
+🔗 [View Repository](https://github.com/FatjonMileti/Chat_App)
+
+---
+
+## Native Chat App
+
+**React Native · Expo · Express · Socket.IO · MongoDB**
+
+Mobile real-time chat application using the same real-time backend concepts.
+
+🔗 [View Repository](https://github.com/FatjonMileti/native_chat_app)
+
+---
+
+# 🧪 Other Projects
+
+### FileForge
+
+**TypeScript**
+
+File-processing project exploring clean tooling and practical developer workflows.
+
+### File Share
+
+**Node.js · Express · Socket.IO**
+
+Real-time file-sharing application.
+
+### Maps Clone
+
+**React · TypeScript · Vite · Leaflet**
+
+Interactive map SPA built around Leaflet.
+
+### Recipe App
+
+**JavaScript · TheMealDB API**
+
+Recipe discovery application with search, categories and detailed instructions.
+
+---
+
+# 🔬 Currently Exploring
+
+I'm currently working on an **Electron/WebRTC remote desktop application** inspired by remote-support tools.
+
+The project explores:
+
+- Electron
+- Vite
+- React
+- TypeScript
+- WebRTC
+- Socket.IO signaling
+- Screen capture
+- WebRTC DataChannels
+- Remote mouse and keyboard input
+- Electron IPC
+- Cross-platform desktop architecture
+- Connection authentication
+- Host approval
+- Secure Electron architecture
+
+### Architecture
+
+```text
+Electron
+   │
+   ├── React + Vite UI
+   │
+   ├── Preload
+   │      │
+   │      └── Secure IPC
+   │
+   └── Main Process
+          │
+          ├── Screen Capture
+          ├── Input Control
+          └── System Integration
+
+                │
+                ▼
+
+          Socket.IO Signaling
+                │
+                ▼
+            WebRTC
+          ┌─────┴─────┐
+          │           │
+       Host        Viewer
+          │           │
+          └─────┬─────┘
+                │
+        DataChannels
+                │
+        Mouse / Keyboard
+        Clipboard / Files
+```
+
+# 🧠 Areas I'm Interested In
+* Distributed systems
+* Real-time communication
+* WebRTC
+* WebSockets
+* Backend architecture
+* API design
+* Database architecture
+* Developer tooling
+* Desktop applications
+* Open-source libraries
+* Performance optimization
+* Linux development
+* Cloud-native applications
+
+# 📫 Connect
+* 🌐 Portfolio: [https://portfolio-ruby-ten-29.vercel.app/](https://portfolio-ruby-ten-29.vercel.app/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/fatjonmileti/](https://www.linkedin.com/in/fatjonmileti/)
+* 🐙 GitHub: [https://github.com/FatjonMileti](https://github.com/FatjonMileti/)
+* 📧 Email: tonimileti@gmail.com
+
+⭐️ Feel free to explore my repositories and projects.
 
 # 📊 GitHub Stats
 
