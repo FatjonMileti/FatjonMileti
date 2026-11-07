@@ -41,6 +41,10 @@ I enjoy working across the stack — from building user interfaces and mobile ap
 
 `Linux` `Docker` `Nginx` `Caddy` `PM2` `Git` `GitHub` `Shell Scripting` `Swagger`
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,graphql,mongodb,postgres,redis,flutter,electron,docker,linux,git" alt="Technologies: React, TypeScript, Node.js, Express, GraphQL, MongoDB, PostgreSQL, Redis, Flutter, Electron, Docker, Linux and Git" />
+</p>
+
 ---
 
 # 🚀 Featured Projects
@@ -69,6 +73,8 @@ Full-stack restaurant management platform covering:
 
 ## 📡 node-sse-hub
 
+[![npm version](https://img.shields.io/npm/v/node-sse-hub?logo=npm)](https://www.npmjs.com/package/node-sse-hub) [![monthly downloads](https://img.shields.io/npm/dm/node-sse-hub?logo=npm)](https://www.npmjs.com/package/node-sse-hub)
+
 **TypeScript · Node.js · Server-Sent Events · Redis**
 
 A lightweight, framework-friendly Server-Sent Events library for building real-time server-to-client updates.
@@ -89,6 +95,8 @@ Features include:
 ---
 
 ## 📦 redis-orm-lite
+
+[![npm version](https://img.shields.io/npm/v/redis-orm-lite?logo=npm)](https://www.npmjs.com/package/redis-orm-lite) [![monthly downloads](https://img.shields.io/npm/dm/redis-orm-lite?logo=npm)](https://www.npmjs.com/package/redis-orm-lite) [![license](https://img.shields.io/npm/l/redis-orm-lite)](https://github.com/FatjonMileti/redis-orm-lite)
 
 **TypeScript · Node.js · Redis**
 
@@ -116,6 +124,8 @@ Features include:
 ---
 
 ## 🔁 node-retry-kit
+
+[![npm version](https://img.shields.io/npm/v/node-retry-kit?logo=npm)](https://www.npmjs.com/package/node-retry-kit) [![monthly downloads](https://img.shields.io/npm/dm/node-retry-kit?logo=npm)](https://www.npmjs.com/package/node-retry-kit)
 
 **TypeScript · Node.js**
 
@@ -301,6 +311,10 @@ Electron
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FatjonMileti\&theme=dark\&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatjonmileti\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+### 📈 Contribution Activity
+
+[![Fatjon's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FatjonMileti&theme=github-compact)](https://github.com/FatjonMileti)
 
 ## 🏆 GitHub Trophies
 
