@@ -66,26 +66,27 @@ Full-stack restaurant management platform covering:
 🔗 [View Repository](https://github.com/FatjonMileti/Restaurant-Management-System)
 
 ---
-## 🏡 Hearthstone
 
-Next.js · TypeScript · React · MUI · Zustand · FastAPI · Python · MongoDB · Socket.IO · Redis · DocuSign
+## 📡 node-sse-hub
 
-A full-stack rental marketplace connecting tenants, landlords, and agents through property listings, intelligent matching, and real-time communication.
+**TypeScript · Node.js · Server-Sent Events · Redis**
+
+A lightweight, framework-friendly Server-Sent Events library for building real-time server-to-client updates.
 
 Features include:
 
-- 🏠 Property listings and rental search
-- 🎯 Tenant search criteria and similarity-based property matching
-- 💬 Real-time chat between marketplace users
-- 📄 Document exchange and offer negotiation
-- ✍️ DocuSign electronic signature integration
-- 🔐 User onboarding and authentication
-- ⚡ FastAPI backend with MongoDB and Redis
-- 🧪 Automated testing, linting, type checking, and build validation
+- Broadcast events to all clients or target individual clients
+- Topic-based subscriptions
+- Event replay for clients reconnecting after missed messages
+- Optional Redis Pub/Sub for multi-node deployments
+- Heartbeats and backpressure handling
+- Error hooks and graceful shutdown
+- ESM and CommonJS support
+- Zero required runtime dependencies
 
-🔗 [View Repository](https://github.com/FatjonMileti/Hearthstone)
+🔗 [View Repository](https://github.com/FatjonMileti/node-sse-hub)
 
-* * *
+---
 
 ## 📦 redis-orm-lite
 
