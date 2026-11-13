@@ -45,6 +45,11 @@ Electron · Linux · Docker · Nginx · Caddy · PM2 · Git · GitHub · Swagger
 
 An open-source remote desktop application focused on explicit consent and secure session design. Includes expiring connection codes, host approval, peer-to-peer screen sharing, remote input, opt-in clipboard sync, and automated tests.
 
+### 🏨 [GrandStay](https://github.com/FatjonMileti/grandstay)
+**Next.js · React · TypeScript · ASP.NET Core · MongoDB · Docker**
+
+A full-stack hotel management application with JWT authentication, dashboard analytics, room and guest management, reservation workflows, availability checks that prevent overlapping bookings, and housekeeping status tracking. Includes Swagger API documentation and Docker Compose setup.
+
 ### 🍽️ [Restaurant Management System](https://github.com/FatjonMileti/Restaurant-Management-System)
 **React · TypeScript · Node.js · GraphQL · MongoDB · SQLite · SSE**
 
@@ -80,11 +85,6 @@ A type-safe retry utility with exponential backoff, jitter, per-attempt timeouts
 **Python · Ollama · Embeddings · RAG**
 
 A local retrieval-augmented generation chat app that searches Markdown documents and answers questions using retrieved context and local models.
-
-### 🧰 [Git Mini](https://github.com/FatjonMileti/Git-mini)
-**Node.js · Git Smart HTTP · SSH · SQLite**
-
-A minimal self-hosted Git platform for local use, with a web UI and support for cloning, fetching, and pushing repositories over HTTP or SSH.
 
 ---
 
