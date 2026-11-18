@@ -51,8 +51,9 @@ An open-source remote desktop application focused on explicit consent and secure
 A full-stack hotel management application with JWT authentication, dashboard analytics, room and guest management, reservation workflows, availability checks that prevent overlapping bookings, and housekeeping status tracking. Includes Swagger API documentation and Docker Compose setup.
 
 ### 🃏 [Hearthstone](https://github.com/FatjonMileti/Hearthstone)
+**Next.js · React · TypeScript · Material UI · Zustand · FastAPI · Python · MongoDB · Socket.IO · Redis · DocuSign**
 
-A personal project related to Hearthstone. See the repository for its implementation and details.
+A full-stack rental marketplace connecting tenants, landlords, and real estate agents. The platform brings together property listings and intelligent matching with real-time communication, helping users discover suitable rentals and coordinate with one another. It also supports document exchange and electronic signature workflows, alongside authentication and a Python-based API.
 
 ### 🍽️ [Restaurant Management System](https://github.com/FatjonMileti/Restaurant-Management-System)
 **React · TypeScript · Node.js · GraphQL · MongoDB · SQLite · SSE**
