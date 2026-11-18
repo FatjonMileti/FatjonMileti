@@ -50,6 +50,10 @@ An open-source remote desktop application focused on explicit consent and secure
 
 A full-stack hotel management application with JWT authentication, dashboard analytics, room and guest management, reservation workflows, availability checks that prevent overlapping bookings, and housekeeping status tracking. Includes Swagger API documentation and Docker Compose setup.
 
+### 🃏 [Hearthstone](https://github.com/FatjonMileti/Hearthstone)
+
+A personal project related to Hearthstone. See the repository for its implementation and details.
+
 ### 🍽️ [Restaurant Management System](https://github.com/FatjonMileti/Restaurant-Management-System)
 **React · TypeScript · Node.js · GraphQL · MongoDB · SQLite · SSE**
 
@@ -68,11 +72,6 @@ A lightweight, framework-friendly SSE library with targeted and topic-based deli
 **TypeScript · Node.js · Redis**
 
 A Redis ORM with a Mongoose-like API, document CRUD operations, query chaining, sorting, and pagination.
-
-### 🧾 [vat-split-ro](https://github.com/FatjonMileti/vat-split-ro)
-**TypeScript · VAT calculations · Financial accuracy**
-
-A zero-dependency Romanian VAT-splitting library designed to reconcile receipt totals across VAT groups using integer bani and the largest-remainder method.
 
 ### 🔁 [node-retry-kit](https://github.com/FatjonMileti/node-retry-kit)
 [![npm version](https://img.shields.io/npm/v/node-retry-kit?logo=npm)](https://www.npmjs.com/package/node-retry-kit)
